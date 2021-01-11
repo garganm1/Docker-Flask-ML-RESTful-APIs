@@ -1,0 +1,1 @@
+{"zebra": 0.9473286271095276, "hartebeest": 0.0008784373058006167, "ostrich, Struthio camelus": 0.0007573144393973053, "tiger, Panthera tigris": 0.0006199167110025883, "prairie chicken, prairie grouse, prairie fowl": 0.0005992379155941308}
